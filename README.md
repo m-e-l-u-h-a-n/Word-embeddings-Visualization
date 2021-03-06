@@ -1,8 +1,4 @@
-**Name:** Purushottam Tiwari
-**Roll No.:** 19074029
-**Branch:** CSE(IDD)
-
-### Description of the Lab Task:
+### Description of the Task:
 The aim of this task was training word vectors using different algorithms like skipgram, continuous bag of word(cbow) and GloVe and using them for spelling error detection.
 I have described the code for each algorithm one by one:
 
